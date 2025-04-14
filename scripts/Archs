@@ -22,3 +22,4 @@ bcm4908/generic bcm53xx/generic
 
 # 其他架构
 realtek/rtl838x realtek/rtl930x zynq/generic
+aarch64_generic
